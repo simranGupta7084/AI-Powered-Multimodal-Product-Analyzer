@@ -15,7 +15,7 @@ Frontend: Streamlit
 Backend: Python
 AI Models: OpenAI GPT-4o, Google Gemini
 Machine Learning: Scikit-learn
-Database: SQLite (optional)
+Database: SQLite
 
 📂 Project Structure
 ai-multimodal-product-analyzer/
@@ -31,7 +31,7 @@ ai-multimodal-product-analyzer/
 │── README.md
 
 ⚙️ Installation
-git clone https://github.com/your-username/ai-multimodal-product-analyzer.git
+git clone https://github.com/simranGupta7084/ai-multimodal-product-analyzer.git
 cd ai-multimodal-product-analyzer
 pip install -r requirements.txt
 streamlit run app.py
