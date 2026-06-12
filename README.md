@@ -30,6 +30,7 @@ ai-multimodal-product-analyzer/
 │── requirements.txt
 │── README.md
 
+
 ⚙️ Installation
 git clone https://github.com/simranGupta7084/ai-multimodal-product-analyzer.git
 cd ai-multimodal-product-analyzer
@@ -47,4 +48,5 @@ Real-time product scraping
 User authentication & history tracking
 
 🤝 Contribution
+
 Pull requests are welcome. For major changes, please open an issue first.
